@@ -1,0 +1,37 @@
+section{
+    height: 800px;
+    width:100%;
+}
+#apps{
+    background-color: antiquewhite;
+}
+#myCarousel{
+    background-color:aquamarine;
+}
+#myCarousel p{
+    font-size: 20px;
+    margin:10px;
+}
+#myCarousel img{
+    height:400px;
+    margin:10px;
+}
+#chatbot{
+    background-color:coral;
+}
+h1{
+    font-size:40px;
+    font-style:bold;
+}
+.line{
+    background-color: black;
+    width:50px;
+    height: 5px;
+    margin-bottom:10px;
+}
+img{
+    transition:transform 0.2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
